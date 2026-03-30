@@ -1,0 +1,11 @@
+{
+  "name": "ak-memorial-homoeopathic-clinic",
+  "version": "1.0.0",
+  "description": "AK Memorial Homoeopathic Clinic website project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
